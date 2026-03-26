@@ -7,7 +7,7 @@
 ## Overview
 
 - Repository 목적: 금융공학 및 금융 데이터 관련 연구 프로젝트를 연구 카테고리별로 소개
-- 운영 방식: Financial Engineering Research Hub (연구 소개) -> Project Repository (소스코드, 결과) -> Notion (연구 상세)
+- 운영 방식: Financial Engineering Repository (연구 소개) -> Project Repository (소스코드, 결과) -> Notion (연구 상세)
 
 ## Quick Navigation
 
