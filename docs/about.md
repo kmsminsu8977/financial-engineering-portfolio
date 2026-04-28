@@ -3,6 +3,7 @@
 ## Navigation
 
 - [Back to README](../README.md)
+- [Projects Index](../projects/)
 
 ## Purpose
 
@@ -11,15 +12,15 @@
 핵심 목적은 다음과 같습니다.
 
 - 전문 분야와 연구 방향을 명확하게 소개
-- 연구 카테고리 안내 페이지 제공
-- 향후 개별 프로젝트 repository 연결 기반 마련
+- 7개 연구 카테고리 안내 페이지 제공
+- 개별 프로젝트 repository 연결
 - Notion 연구 노트 및 발표 자료 연결 구조 정리
 
 ## Current Background
 
 현재 보유 자료는 대학원 과목별 과제, 프로젝트, 코드, 실습 자료 중심으로 분산되어 있으며, 일부 연구 내용은 Notion에 별도로 정리되어 있습니다.
 
-자료의 양은 충분하지만, 대외적으로 설명 가능한 프로젝트 단위로 정리된 상태는 아니므로 이 저장소에서는 먼저 구조를 설계하고 문서 체계를 정리합니다.
+자료의 양은 충분하지만, 대외적으로 설명 가능한 프로젝트 단위로 정리하는 과정이 필요합니다. 이 저장소에서는 개별 repository를 연구 축별로 배열하고, 각 프로젝트의 목적과 산출물 기준을 일관된 형식으로 관리합니다.
 
 ## How This Repository Is Used
 
@@ -32,10 +33,13 @@
 
 ## Core Research Categories
 
-- [Financial Risk Modeling](../research-categories/financial-risk-modeling.md)
-- [Derivatives and Risk Management](../research-categories/derivatives-and-risk-management.md)
-- [Quant Trading Strategy Research](../research-categories/quant-trading-strategy-research.md)
-- [Financial Data Science](../research-categories/financial-data-science.md)
+- [Stochastic Models & Market Risk](../research-categories/stochastic-models-and-market-risk/)
+- [Derivatives Pricing & Volatility](../research-categories/derivatives-pricing-and-volatility/)
+- [Portfolio Optimization & Allocation](../research-categories/portfolio-optimization-and-allocation/)
+- [Factor Investing](../research-categories/factor-investing/)
+- [Dynamic Portfolio Insurance](../research-categories/dynamic-portfolio-insurance/)
+- [Financial Data Science](../research-categories/financial-data-science/)
+- [Market Signals & Event Analytics](../research-categories/market-signals-and-event-analytics/)
 
 ## Writing Principles
 
@@ -43,20 +47,21 @@
 - 과장된 표현 지양
 - 전문적이고 간결한 문체 유지
 - markdown heading 구조 일관성 유지
+- 개별 repository의 구현 상태와 문서화 상태를 구분
 
 ## Roadmap
 
 ### Phase 1
 
-리서치 허브 구조 완성
+7개 연구 축과 개별 프로젝트 repository 연결 구조 완성
 
 ### Phase 2
 
-연구 카테고리별 후보 프로젝트 정리
+카테고리별 프로젝트 README, SOURCE, methodology 문서 정리
 
 ### Phase 3
 
-우선순위가 높은 프로젝트부터 개별 repository 생성
+우선순위가 높은 프로젝트부터 재현 가능한 코드와 산출물 보강
 
 ### Phase 4
 

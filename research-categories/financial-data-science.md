@@ -3,7 +3,8 @@
 ## Navigation
 
 - [Back to README](../README.md)
-- [About This Research Hub](../docs/about.md)
+- [Projects Index](../projects/)
+- [About This Research Hub](../docs/about/)
 
 ## Research Category Scope
 
@@ -11,11 +12,19 @@
 
 주요 주제 예시는 다음과 같습니다.
 
+- 금융 빅데이터 처리
 - 금융 뉴스 NLP
-- 시장 데이터 분석 및 시각화
 - 데이터 수집/적재 파이프라인
-- 금융 데이터 마이닝 및 예측 실험
+- 텍스트 전처리, 감성, 토픽, 임베딩 분석
 - 리서치 자동화 워크플로우
+
+## Project Repositories
+
+1. [financial-big-data-analysis](../../financial-big-data-analysis)
+   - 대용량 금융 데이터 처리, 특징 생성, 분석/시각화 워크플로우
+
+2. [financial-news-nlp-pipeline](../../financial-news-nlp-pipeline)
+   - 뉴스 수집, 전처리, 토큰화, 감성·토픽·임베딩 분석 파이프라인
 
 ## Intended Research Output
 
@@ -46,4 +55,4 @@
 
 ## Next Step
 
-먼저 기존 데이터 실습 자료를 목적별로 분류하고, 외부 공개 가능한 프로젝트부터 단계적으로 문서화할 예정입니다.
+데이터 계보와 전처리 기준을 명확히 남기고, 분석 결과는 재현 가능한 notebook/script 산출물과 연결합니다.
